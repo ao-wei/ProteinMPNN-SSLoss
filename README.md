@@ -1,2 +1,1 @@
 # ProteinMPNN-SSLoss
-# ProteinMPNN-SSLoss
